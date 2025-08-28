@@ -1,41 +1,41 @@
 
-<img alt="Coding" src="https://chumley.barstoolsports.com/union/2024/11/20/dc884-17262004042678.06fe99d7.webp?fit=bounds&format=pjpg&auto=webp&quality=85%2C75" />
+<img alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 <hr/>
 
 <h1 align="center">
-    <img src="https://i.gifer.com/origin/ab/ab1af2e20214c839b2bf3281daa03eaa_w200.gif" />
+    <img src="https://tse4.mm.bing.net/th/id/OIP.Ad7pByPikf9op7SqwR9qaQAAAA?pid=Api&P=0&h=220" />
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I'm Deep, a passionate MERN stack developer, UI/UX Devloper  and coding enthusiast from India🌍!</h2>
+<h2 align="center">👋 I'm Kanak , a passionate MERN stack developer, coding enthusiast from India🌍!</h2>
 
 <br/>
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
-<img align="right" width="250" alt="Coding" src="https://media1.tenor.com/m/a4-limnRR-YAAAAd/just-a-chill-guy-chill.gif" />
+<img align="right" width="250" alt="Coding" src="https://tse2.mm.bing.net/th/id/OIP.j4QQvhN5Bx4xfzL04Tuv6gHaHa?pid=Api&P=0&h=220" />
 
 <p align="left"> 
-🌟 Passionate UI/UX Devloper 🚀
+🌟 Passionate Frontend Developer 🚀
 </p>
 <p align="left"> 
 🎨 Creative Tech Enthusiast 💡
 </p>
 <p align="left"> 
-🔧 Problem-Solving Extraordinaire 💪
+
 </p>
 <p align="left"> 
 🌟 Innovation Architect 🛠️
 </p>
 <p align="left"> 
-🎮 Coding Maverick 🕹️
+
 </p>
 
-📫 Contact Me At **sonardeep2002@gmail.com**
+📫 Contact Me At **kanaknigote264@gmail.com**
 
 <h5>
-  🔗 Know more About me on <a href="www.linkedin.com/in/deepsonar" target="_blank">LinkedIn</a>
+  🔗 Know more About me on <a href="www.linkedin.com/in/kanaknigote" target="_blank">LinkedIn</a>
 </h5>
 
 <hr/>
@@ -47,13 +47,13 @@
 
 <h2 align="center">🎨 Frontend 🎨</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui"/>
-    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,materialui"/>
+    <img src="https://skillicons.dev/icons?i=babel,,githubactions,vite"/>
 </div>
 
 <h2 align="center">⚙️ Backend ⚙️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,django,nginx,redis,kafka,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django," />
 </div>
 
 <h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
@@ -75,14 +75,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SaxenaShourya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SaxenaShourya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaxenaShourya&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <br/><br/>
 
